@@ -52,7 +52,7 @@
 
 ### Google Cloud Skills Boost 🏆
 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-View%20My%20Profile-blue?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/fe8f9ff0-8907-4a74-b475-6c41e2e13ff1)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-View%20My%20Profile-blue?logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/a530b434-b9fb-4637-b1f6-f8a3935c668d)
 
 Explore my cloud milestones and achievements 🚀
 
@@ -62,13 +62,14 @@ Explore my cloud milestones and achievements 🚀
 
 <div align="center">
 
-<a href="https://github.com/k8snx">
+<!-- <a href="https://github.com/k8snx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=k8snx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=k8snx&layout=compact&theme=vue&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k8snx&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
   </picture>
 </a>
+
 &nbsp;
 <a href="https://github.com/k8snx">
   <picture>
@@ -77,7 +78,7 @@ Explore my cloud milestones and achievements 🚀
     <img src="https://github-readme-stats.vercel.app/api?username=k8snx&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Anjali's GitHub stats">
   </picture>
 </a>
-<br/>
+<br/> -->
 
 <a href="https://github.com/k8snx">
   <picture>
